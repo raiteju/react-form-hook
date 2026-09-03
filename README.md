@@ -264,7 +264,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Your Name - [@raiteju3](https://x.com/raiteju3) - raiteju3@gmail.com
 
 Project Link: [https://github.com/raiteju/react-form-hook](https://github.com/raiteju/react-form-hook)
 
