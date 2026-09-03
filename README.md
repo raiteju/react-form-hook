@@ -264,7 +264,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
-Your Name - [@raiteju3](https://x.com/raiteju3) - raiteju3@gmail.com
+- Your Name: [Teju Rai](https://tejurai.com) - raiteju3@gmail.com
+- Twitter: [@raiteju3](https://x.com/raiteju3)
+- GitHub: [@raiteju](https://github.com/raiteju)
 
 Project Link: [https://github.com/raiteju/react-form-hook](https://github.com/raiteju/react-form-hook)
 
@@ -273,3 +275,7 @@ Project Link: [https://github.com/raiteju/react-form-hook](https://github.com/ra
 ## ⭐ Show Your Support
 
 If you found this project helpful, please give it a ⭐ on GitHub!
+
+---
+
+**Made with ❤️ by Teju Rai**
